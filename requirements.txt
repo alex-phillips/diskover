@@ -1,5 +1,5 @@
 elasticsearch==5.5.3
-requests==2.22.0
+requests==2.31.0
 scandir==1.10.0
 progressbar2==3.42.0
 redis==3.3.5
